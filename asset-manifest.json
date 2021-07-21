@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Voodoo-Rocks/static/css/main.9155e19a.chunk.css",
+    "main.js": "/Voodoo-Rocks/static/js/main.8e189a6a.chunk.js",
+    "main.js.map": "/Voodoo-Rocks/static/js/main.8e189a6a.chunk.js.map",
+    "runtime-main.js": "/Voodoo-Rocks/static/js/runtime-main.76aeaf08.js",
+    "runtime-main.js.map": "/Voodoo-Rocks/static/js/runtime-main.76aeaf08.js.map",
+    "static/css/2.09765660.chunk.css": "/Voodoo-Rocks/static/css/2.09765660.chunk.css",
+    "static/js/2.4db2af25.chunk.js": "/Voodoo-Rocks/static/js/2.4db2af25.chunk.js",
+    "static/js/2.4db2af25.chunk.js.map": "/Voodoo-Rocks/static/js/2.4db2af25.chunk.js.map",
+    "static/js/3.e31f2402.chunk.js": "/Voodoo-Rocks/static/js/3.e31f2402.chunk.js",
+    "static/js/3.e31f2402.chunk.js.map": "/Voodoo-Rocks/static/js/3.e31f2402.chunk.js.map",
+    "index.html": "/Voodoo-Rocks/index.html",
+    "static/css/2.09765660.chunk.css.map": "/Voodoo-Rocks/static/css/2.09765660.chunk.css.map",
+    "static/css/main.9155e19a.chunk.css.map": "/Voodoo-Rocks/static/css/main.9155e19a.chunk.css.map",
+    "static/js/2.4db2af25.chunk.js.LICENSE.txt": "/Voodoo-Rocks/static/js/2.4db2af25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76aeaf08.js",
+    "static/css/2.09765660.chunk.css",
+    "static/js/2.4db2af25.chunk.js",
+    "static/css/main.9155e19a.chunk.css",
+    "static/js/main.8e189a6a.chunk.js"
+  ]
+}
